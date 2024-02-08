@@ -1,0 +1,57 @@
+textarea {
+    width: -webkit-fill-available;
+    min-height: 5px;
+}
+
+.form-group {
+    margin: 1px;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+
+
+.Headings {
+    background-color: hsl(0, 0%, 70%);
+    border-radius: 3px;
+    padding: 0.6rem;
+    text-align: center;
+}
+
+#cv-template {
+    display: none;
+    font-family: Helvetica;
+    
+}
+
+
+/* Templates Designing */
+
+.my-image {
+    width: 50%;
+    border: radius 10px;
+    border: 2px solid black;
+}
+
+.background {
+    background-color: #6c6c6c;
+}
+
+.Links {
+    text-decoration: none;
+    color: black;
+}
+
+.col-md-6 mt-3{
+    color: black;
+}
+
+.watermark
+{
+    
+    margin-top: 100px;
+    color: rgb(160, 160, 160);
+    size: 20px;
+    
+}
+
